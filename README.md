@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -186,3 +187,6 @@ If you like this project:
 - 🔧 Improve it
 - 📢 Share it
 >>>>>>> 02a80bfb6de5d976af12bcbd825d03604e0d82ce
+=======
+# FRIDAY-AI-Chatbot-Using-Java
+>>>>>>> c0cac99c6bc9312046553d0fb34ee863ef6d3dac
