@@ -1,24 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-=======
 # 🤖 FRIDAY - AI Chatbot (Java Swing Desktop Application)
 
 FRIDAY is a smart AI-based desktop chatbot built using **Java Swing** with a modern UI powered by **FlatLaf**. It includes real-time API integrations like Weather and Location services and a rule-based response engine that simulates intelligent assistant behavior.
