@@ -21,16 +21,16 @@ FRIDAY is a smart AI-based desktop chatbot built using **Java Swing** with a mod
 ## 📸 Screenshots
 
 ### 🏠 Main Interface
-![Main UI](screenshots/main-UI.png)
+![Main UI](screenshot/main-UI.png)
 
 ### 🌦️ Weather Feature
-![Weather Feature](screenshots/wea.png)
+![Weather Feature](screenshot/wea.png)
 
 ### 📍 Location Feature
-![Location Feature](screenshots/location.png)
+![Location Feature](screenshot/location.png)
 
 ### 💬 Chat / Rule-Based Responses
-![Chat Feature](screenshots/chat.png)
+![Chat Feature](screenshot/chat.png)
 
 ---
 
